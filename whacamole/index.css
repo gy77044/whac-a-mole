@@ -4,6 +4,7 @@ body{
   position: relative;
   align-items: center;
   justify-content: center;  
+  overflow: hidden;
 }
 .grid{
   width:306px;
