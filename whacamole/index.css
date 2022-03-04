@@ -1,0 +1,26 @@
+body{
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  
+}
+h1{
+  color:rgb(129, 127, 255)
+}
+.grid{
+  width:306px;
+  height:306px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.square{
+  height:100px;
+  width:100px;
+  border:1px solid black;
+}
+.mole{
+  background-color: rgb(129, 127, 255);
+  
+}
