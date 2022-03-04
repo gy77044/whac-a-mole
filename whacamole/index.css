@@ -3,11 +3,7 @@ body{
   flex-direction: column;
   position: relative;
   align-items: center;
-  justify-content: center;
-  
-}
-h1{
-  color:rgb(129, 127, 255)
+  justify-content: center;  
 }
 .grid{
   width:306px;
